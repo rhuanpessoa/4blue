@@ -1,2 +1,1 @@
-# 4blue
-Teste técnico
+relatorio de bugs
